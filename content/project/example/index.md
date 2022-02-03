@@ -18,7 +18,7 @@ links:
   name: LinkedIn
   link: www.linkedin.com/in/zijie-jay-w-50b647170
 url_code: ""
-url_pdf: "presentation.pdf"
+url_pdf: "content\project\example\presentation.pdf"
 url_slides: ""
 url_video: ""
 
