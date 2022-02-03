@@ -31,6 +31,7 @@ slides: example
 
 - icon: pdf
 icon_pack: ai
+name: PDF
 link: uploads/resume.pdf
 
 ---
