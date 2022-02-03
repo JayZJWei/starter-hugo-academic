@@ -22,7 +22,7 @@ links:
   name: PDF
   link: uploads/resume.pdf
 url_code: ""
-url_pdf: "uploads/resume.pdf"
+url_pdf: "https://github.com/JayZJWei/starter-hugo-academic/blob/master/content/project/example/presentation.pdf"
 url_slides: ""
 url_video: ""
 
