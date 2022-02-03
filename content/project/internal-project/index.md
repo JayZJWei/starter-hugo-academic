@@ -17,9 +17,9 @@ links:
   icon_pack: fab
   name: Follow
   url: https://twitter.com/georgecushen
-url_code: ""
+url_code: "https://github.com/JayZJWei/431ProjectB/blob/273f3339c97caf7f5aee4ed803d0ba3a172ccfba/presentation.Rmd"
 url_pdf: "https://drive.google.com/file/d/1tjee4c95SJjlNynZVCnS6BjL3TAFsqJo/view?usp=sharing"
-url_slides: ""
+url_slides: "https://github.com/JayZJWei/431ProjectB/blob/273f3339c97caf7f5aee4ed803d0ba3a172ccfba/presentation.html"
 url_video: ""
 
 # Slides (optional).
@@ -27,7 +27,7 @@ url_video: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+slides: ""
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
