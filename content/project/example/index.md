@@ -17,6 +17,10 @@ links:
   icon_pack: fab
   name: LinkedIn
   link: www.linkedin.com/in/zijie-jay-w-50b647170
+-icon: pdf
+  icon_pack: ai
+  name: PDF
+  link: uploads/resume.pdf
 url_code: ""
 url_pdf: "uploads/resume.pdf"
 url_slides: ""
@@ -30,9 +34,5 @@ url_video: ""
 slides: ""
 pdf: presentation
 
-- icon: pdf
-icon_pack: ai
-name: PDF
-link: uploads/resume.pdf
 
 ---
