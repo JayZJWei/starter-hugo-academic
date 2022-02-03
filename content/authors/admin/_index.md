@@ -27,12 +27,16 @@ interests:
 # Education to show in About widget
 education:
   courses:
+  - course: Doctor of Osteopathic Medicine 
+    institution: Michigan State University College of Osteopathic Medicine
+    year: 2022-2026
   - course: MS in Biostatistics
     institution: Case Western Reserve University
     year: 2021-2022
   - course: BSc in Biochemistry and Molecular Biology
     institution: University of California, Davis
     year: 2015-2019
+  
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons

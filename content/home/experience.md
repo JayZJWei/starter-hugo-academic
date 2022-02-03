@@ -43,7 +43,20 @@ experience:
     date_start: '2018-05-01'
     date_end: '2019-06-25'
     description: Cooperated with medical students and other student volunteers to complete clerical tasks, and promoted health education. Learned how to intake patients. Assisted doctors with minor procedures, translation, and cleaning.  
+  - title: Member
+    company: Phi Delta Epsilon International Medical Fraternity, Kappa Chapter
+    location: California
+    date_start: '2016-05-01'
+    date_end: '2019-06-25'
+    description: Coordinated with others to plan charity events to raise money for local children’s hospital. Participated in health-related volunteering. Planned and assisted events for educating high school student about Pre-medical route.
+  - title: Lab Assistant
+    company: UC Davis Hunter Lab
+    location: California
+    date_start: '2016-02-01'
+    date_end: '2017-07-25'
+    description: Learned basic PCR and genotyping procedures. Learned to dissect mice and collect ovaries and oocytes. Assisted with research involving in how obesity affect infertility. Assisted with image analysis by counting numbers of chromosomes and chiasmata. 
+
 
 design:
-  columns: '3'
+  columns: '5'
 ---
