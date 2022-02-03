@@ -18,7 +18,7 @@ links:
   name: Follow
   url: https://twitter.com/georgecushen
 url_code: ""
-url_pdf: ""
+url_pdf: "https://github.com/JayZJWei/starter-hugo-academic/blob/master/content/project/example/presentation.pdf"
 url_slides: ""
 url_video: ""
 
