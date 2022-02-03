@@ -20,7 +20,7 @@ links:
 -icon: pdf
   icon_pack: ai
   name: PDF
-  link: uploads/resume.pdf
+  link: https://github.com/JayZJWei/starter-hugo-academic/blob/master/content/project/example/presentation.pdf
 url_code: ""
 url_pdf: "https://github.com/JayZJWei/starter-hugo-academic/blob/master/content/project/example/presentation.pdf"
 url_slides: ""
