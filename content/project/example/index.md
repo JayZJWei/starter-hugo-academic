@@ -29,5 +29,8 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: example
 
-pdf: presentation
+- icon: pdf
+icon_pack: ai
+link: uploads/resume.pdf
+
 ---
