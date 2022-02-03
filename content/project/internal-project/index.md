@@ -1,18 +1,22 @@
 ---
-title: Internal Project
-summary: An example of using the in-built project page.
+title: Analysis of Hypertension using Vitamin C Level as a Key Predictor Along with Four Other Potential Risk Factors
+summary: Project B for PQHS431
 tags:
 - Deep Learning
-date: "2016-04-27T00:00:00Z"
+date: "2022-02-03T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: Photo by stevepb on Pixabay
   focal_point: Smart
 
 links:
+- icon: linkedin
+  icon_pack: fab
+  name: LinkedIn
+  link: www.linkedin.com/in/zijie-jay-w-50b647170
 - icon: twitter
   icon_pack: fab
   name: Follow
