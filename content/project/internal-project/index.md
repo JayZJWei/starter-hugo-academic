@@ -23,7 +23,7 @@ links:
   url: https://twitter.com/georgecushen
 url_code: "https://github.com/JayZJWei/431ProjectB/blob/273f3339c97caf7f5aee4ed803d0ba3a172ccfba/presentation.Rmd"
 url_pdf: "https://drive.google.com/file/d/1tjee4c95SJjlNynZVCnS6BjL3TAFsqJo/view?usp=sharing"
-url_slides: "https://github.com/JayZJWei/431ProjectB/blob/273f3339c97caf7f5aee4ed803d0ba3a172ccfba/presentation.html"
+url_slides: "https://rawcdn.githack.com/JayZJWei/431ProjectB/273f3339c97caf7f5aee4ed803d0ba3a172ccfba/presentation.html"
 url_video: ""
 
 # Slides (optional).
