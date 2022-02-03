@@ -2,7 +2,7 @@
 title: Analysis of Hypertension using Vitamin C Level as a Key Predictor Along with Four Other Potential Risk Factors
 summary: An example of using the in-built project page.
 tags:
-- Deep Learning
+- R Language Project
 date: "2022-02-02T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
@@ -18,7 +18,7 @@ links:
   name: LinkedIn
   link: www.linkedin.com/in/zijie-jay-w-50b647170
 url_code: ""
-url_pdf: ""
+url_pdf: "presentation.pdf"
 url_slides: ""
 url_video: ""
 

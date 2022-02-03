@@ -28,7 +28,7 @@ content:
   - name: All
     tag: '*'
   - name: R Language
-    tag: Deep Learning
+    tag: R Language
   - name: Other
     tag: Demo
 
