@@ -64,6 +64,6 @@ email: "zxw310@case.edu"
 highlight_name: true
 ---
 
-I am a master student at Case Western Reserve University. I am interested in pursuing a career in medicine and planning to do clinical research in the future, including research on obesity, diabetes, and mental health disorders. Due to my master's program, I am currently interested in analyzing large health care databases to promote better health care policy changes. 
+I am an MS student at Case Western Reserve University. I am interested in pursuing a career in medicine and planning to do clinical research in the future, including research on obesity, diabetes, and mental health disorders. Due to my master's program, I am currently interested in analyzing large health care databases to promote better health care policy changes. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
